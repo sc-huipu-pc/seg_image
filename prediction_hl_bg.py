@@ -172,3 +172,4 @@ for label in os.listdir(image_paths):
             jadite_classify(i, image_path,label)
 
 
+ssda
